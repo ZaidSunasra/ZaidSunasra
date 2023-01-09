@@ -1,5 +1,12 @@
-### Hi there 👋
+  Hi, I am Zaid Sunasra.
+ 
+🔭 I’m Second Year Engineering Student studying in Thadomal Shahani Engineering College in AI&DS Branch.
+ 
+🌱 I’m currently learning Web Development and Data Structures.
+  
+📫 How to reach me: zaidsunasra26@gmail.com
 
+😄 Pronouns: He/Him
 <!--
 **ZaidSunasra/ZaidSunasra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
