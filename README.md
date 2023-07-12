@@ -1,6 +1,6 @@
   Hi, I am Zaid Sunasra.
  
-🔭 I’m Second Year Engineering Student studying in Thadomal Shahani Engineering College in AI&DS Branch.
+🔭 I’m Third Year Engineering Student studying in Thadomal Shahani Engineering College in AI&DS Branch.
  
 🌱 I’m currently learning Web Development and Data Structures. 
   
