@@ -6,7 +6,7 @@
   
 📫 How to reach me: zaidsunasra26@gmail.com
 
-😄 Pronouns: He/Him
+
 <!--
 **ZaidSunasra/ZaidSunasra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
