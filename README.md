@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaid Sunasra</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/ZaidSunasra/ZaidSunasra/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zaidsunasra/zaidsunasra/output/snake.svg" alt="Snake animation" />
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidsunasra&label=Profile%20views&color=0e75b6&style=plastic" alt="zaidsunasra" /> </p>
