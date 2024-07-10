@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zaid Sunasra</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/zaidsunasra/zaidsunasra/output/snake.svg" alt="Snake animation" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidsunasra&label=Profile%20views&color=0e75b6&style=plastic" alt="zaidsunasra" /> </p>
+
+<h2>My Contribution</h2>
+<img src="https://raw.githubusercontent.com/zaidsunasra/zaidsunasra/output/snake.svg" alt="Snake animation" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidsunasra" alt="zaidsunasra" /></a> </p>
 
@@ -17,7 +18,7 @@
 
 - 📫 How to reach me **zaidsunasra26@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wAM0_CKdeMcjj-Z2Of0LOp1hntnwen26/view?usp=sharing](https://drive.google.com/file/d/1wAM0_CKdeMcjj-Z2Of0LOp1hntnwen26/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1wAM0_CKdeMcjj-Z2Of0LOp1hntnwen26/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
