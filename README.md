@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidsunasra" alt="zaidsunasra" /></a> </p>
 
-- 🔭 I’m currently working on [Budget Buddy](https://github.com/ZaidSunasra/Budget-Buddy)
+- 🔭 I’m currently working on [Restaurant Billing Desktop App]()
 
 - 🌱 I’m currently learning **Next.js and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://zaidsunasra.github.io/Zaid_Sunasra/](https://zaidsunasra.github.io/Zaid_Sunasra/)
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **zaidsunasra26@gmail.com**
 
