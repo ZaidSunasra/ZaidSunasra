@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidsunasra" alt="zaidsunasra" /></a> </p>
 
-- 🔭 I’m currently working on [Restaurant Billing Desktop App](https://github.com/ZaidSunasra/Restaurant-Billing-App)
+- 🔭 I’m currently working on [Budget Buddy]((https://github.com/ZaidSunasra/Budget-Buddy))
 
 - 🌱 I’m currently learning **Next.js and DevOps**
 
