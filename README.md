@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidsunasra" alt="zaidsunasra" /></a> </p>
 
-- 🔭 I’m currently working on [Budget Buddy](https://github.com/ZaidSunasra/Budget-Buddy)
+- 🔭 I’m currently working on [Custom CRM](https://github.com/ZaidSunasra/Myraid-Storage-CRM)
 
 - 🌱 I’m currently learning **Next.js and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://zaidsunasra.github.io/Zaid_Sunasra/](https://zaidsunasra.github.io/Zaid_Sunasra/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://zaidsunasra.github.io/Zaid_Sunasra/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **zaidsunasra26@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1wAM0_CKdeMcjj-Z2Of0LOp1hntnwen26/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1t7K2aURj0QHnGLz5bwn31b8RyN0yUKky/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
