@@ -6,7 +6,7 @@
 <h2>My Contribution</h2>
 <img src="https://raw.githubusercontent.com/zaidsunasra/zaidsunasra/output/snake.svg" alt="Snake animation" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidsunasra" alt="zaidsunasra" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidsunasra" alt="zaidsunasra" /></a> </p> -->
 
 - 🔭 I’m currently working on [Custom CRM](https://github.com/ZaidSunasra/Myraid-Storage-CRM)
 
@@ -48,8 +48,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidsunasra&show_icons=true&locale=en&layout=compact" alt="zaidsunasra" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidsunasra&show_icons=true&locale=en&layout=compact" alt="zaidsunasra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidsunasra&show_icons=true&locale=en" alt="zaidsunasra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidsunasra&show_icons=true&locale=en" alt="zaidsunasra" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidsunasra&" alt="zaidsunasra" /></p>
